@@ -1,2 +1,5 @@
 /sqldeveloper
 /BaseX
+lab12_Lucene/.idea
+!**/src/main/**/target/
+!**/src/test/**/target/
